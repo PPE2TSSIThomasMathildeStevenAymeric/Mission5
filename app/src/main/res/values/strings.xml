@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Mission_5</string>
+    <string name="save">Sauvegarder</string>
+    <string name="crit_res_g_n_raux">Critères généraux</string>
+    <string name="_0">0</string>
+    <string name="_5">5</string>
+    <string name="_2">2</string>
+    <string name="ponctualit">Ponctualité:</string>
+    <string name="respect_du_coach">Respect du coach:</string>
+    <string name="respect_de_l_adversaire">Respect de l’adversaire:</string>
+    <string name="concentration">Concentration:</string>
+    <string name="motivation">Motivation:</string>
+    <string name="fair_play">Fair Play:</string>
+    <string name="crit_res_sportifs">Critères sportifs</string>
+    <string name="geste">Geste:</string>
+    <string name="a">A</string>
+    <string name="e">E</string>
+    <string name="d">D</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="vitesse_de_jeu">Vitesse de jeu:</string>
+    <string name="r_sultat_de_la_boule">Résultat de la boule:</string>
+    <string name="effet_imprim_la_boule">Effet imprimé à la boule:</string>
+    <string name="style">Style:</string>
+    <string name="bilan_portif">Bilan portif</string>
+    <string name="nom_joueur">NOM JOUEUR</string>
+    <string name="moyenne">Moyenne:</string>
+    <string name="note">NOTE</string>
+</resources>
